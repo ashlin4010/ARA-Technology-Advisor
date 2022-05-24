@@ -1,0 +1,240 @@
+{
+  "technologies": [
+    {
+      "name": "Mercedes-Benz Voice Controls",
+      "category": "Personal Assistant",
+      "description": "Mercedes-Benz is adding voice controls to there cars letting drivers ask their car questions about traffic, weather and more.",
+      "url": "https://www.mercedes-benz.co.nz/",
+      "tags": [
+        "Personal Assistant",
+        "Language Comprehension",
+        "Natural Language",
+        "AI"
+      ]
+    },
+    {
+      "name": "Postmates",
+      "category": "Autonomy",
+      "description": "Last mile is becoming a thing of the past as companies like FedEx, Amazon and Postmates use robots and drones for delivery right to customers’ doorsteps.",
+      "url": "https://postmates.com/",
+      "tags": ["Self-driving", "Automation", "Retail"]
+    },
+    {
+      "name": "Solid",
+      "category": "Privacy",
+      "description": "Solid is a data-linking architecture that emphasizes trust. Individuals’ data is stored and used across the web through “pods,” where they decide where their personal data is hosted and used.",
+      "url": "https://solid.mit.edu/",
+      "tags": ["Privacy", "Data Sharing", "Data Collection", "Data Processing", "Security"]
+    },
+    {
+      "name": "Perceptive Automata",
+      "category": "Autonomy",
+      "description": "Volvo and Perceptive Automata are working together to build safer autonomous vehicles by pairing computer vision with behavioral science and neuroscience to understand the intention and awareness of pedestrians.",
+      "url": "https://www.perceptiveautomata.com/",
+      "tags": ["AI", "Image Recognition", "Contextual Awareness", "Self-driving", "Autonomy"]
+    },
+    {
+      "name": "Autodesk AI Optimisation",
+      "category": "AI",
+      "description": "VW partnered with Autodesk to experiment with generative design tools. AI systems generate designs that human uses further refine.",
+      "url": "https://www.autodesk.com/solutions/generative-design",
+      "tags": ["AI Collaboration", "Manufacturing", "Design", "Optimisation"]
+    },
+    {
+      "name": "MuseNet",
+      "category": "AI",
+      "description": "OpenAI’s MuseNet is an AI that collaborates with humans to compose music.",
+      "url": "https://openai.com/blog/musenet/",
+      "tags": ["AI Collaboration", "Design", "Composition", "Art", "Music"]
+    },
+    {
+      "name": "Google’s BERT and Baidu’s ERNIE",
+      "category": "Language Comprehension",
+      "description": "Google’s BERT and Baidu’s ERNIE, which are both open-source frameworks, enabled AI systems to move from understanding just one word, to understanding phrases in context.",
+      "url": "https://blog.google/products/search/search-language-understanding-bert/",
+      "tags": ["Neuro-linguistic Programming", "AI", "Natural Language", "Language Comprehension", "AI Collaboration", "Law"]
+    },
+    {
+      "name": "Casetext",
+      "category": "Language Comprehension",
+      "description": "Casetext is a startup building an AI-powered research platform for lawyers",
+      "url": "https://casetext.com/",
+      "tags": ["Neuro-linguistic Programming", "AI", "Natural Language", "Language Comprehension", "AI Collaboration", "Law"]
+    },
+    {
+      "name": "Microsoft’s HoloLens 2",
+      "category": "AR",
+      "description": "Microsoft’s HoloLens 2 mixed reality headset can not only see, but also understand the wearer’s physical environment.",
+      "url": "https://www.microsoft.com/en-us/hololens",
+      "tags": ["Image Recognition", "Contextual Awareness", "Extended Reality", "Virtual Reality", "Safety", "Hazard Identification"]
+    },
+    {
+      "name": "IBM Watson",
+      "category": "AI",
+      "description": "IBM built a system known as Watson with natural language capabilities to listen to and parse human speech",
+      "url": "https://www.ibm.com/watson",
+      "tags": ["AI", "Image Recognition", "Contextual Awareness", "AI Collaboration"]
+    },
+    {
+      "name": "Lemonade",
+      "category": "AI",
+      "description": "At Lemonade, AI is embedded in the organization and present in nearly every workflow. Customers file claims with a chatbot that both logs the claim details and instantly compares the claim to others within the Lemonade database. AI assistance significantly saves costs for Lemonade.",
+      "url": "https://www.lemonade.com/blog/ai-eats-insurance/",
+      "tags": ["AI", "Contextual Awareness", "AI Collaboration", "Chatbot", "Fraud Detection", "Analysis", "Insurance", "Customer Care"]
+    },
+    {
+      "name": "PowerPoint",
+      "category": "AI",
+      "description": "Microsoft created an AI-powered presentation coach for its web version of PowerPoint.",
+      "url": "https://news.microsoft.com/europe/2019/06/18/say-hello-to-presenter-coach-powerpoints-new-ai-powered-tool-which-will-help-you-nail-your-next-presentation/",
+      "tags": ["AI Collaboration", "Language Comprehension", "Natural Language", "Coaching", "Education", "Presentations"]
+    },
+    {
+      "name": "Cogito",
+      "category": "Analysis",
+      "description": "Cogito, a behavioral science software company, is using voice-to-text and sentiment analysis to coach human call center agents in empathy during their phone calls with customers.",
+      "url": "https://cogitocorp.com/",
+      "tags": ["Voice-To-Text", "AI", "Language Comprehension", "Natural Language", "Coaching", "Education", "AI Collaboration"]
+    },
+    {
+      "name": "Amazon Alexa",
+      "category": "Personal Assistant",
+      "description": "Amazon’s Echo devices and Alexa assistant has changed the way many consumers obtain information and interact with their personal spaces.",
+      "url": "https://developer.amazon.com/en-US/alexa",
+      "tags": ["Personal Assistant", "Language Comprehension", "Natural Language", "AI", "Smart Devices"]
+    },
+    {
+      "name": "GM",
+      "category": "Data Processing",
+      "description": "GM's new “digital nervous system” will be able to process 4.5 terabytes of data an hour—a fivefold increase over what current GM cars can do—which will let the cars process camera footage, Light Detection and Ranging (LIDAR) data and real-time information on road conditions and traffic.",
+      "url": "https://www.gm.com/",
+      "tags": ["Data Processing", "Computer Vision", "LIDAR", "Real-time Information"]
+    },
+    {
+      "name": "MultiMechanics Finite Analysis",
+      "category": "Engineering",
+      "description": "MultiMechanics develops finite element software to help companies predict failure in advanced materials.",
+      "url": "https://www.plm.automation.siemens.com/global/en/products/simcenter/multimech.html",
+      "tags": ["Data Processing", "Engineering", "Software", "Testing"]
+    },
+    {
+      "name": "Intel Movidius Visual Processing Unit",
+      "category": "Computer Vision",
+      "description": "Simcam, an in-home security system, uses an “intelligent edge” approach to deliver an AI solution on its in-home cameras. Rather than sending data to the cloud for analysis. Simcam’s cameras use Intel’s Movidius Visual Processing Unit (VPU), and analysis is run locally using Intel’s hardware.",
+      "url": "https://store.simcam.ai/pages/about-us",
+      "tags": ["Computer Vision", "AI", "Image Recognition", "Image Processing", "Security", "Privacy"]
+    },
+    {
+      "name": "MELLODDY",
+      "category": "Blockchain",
+      "description": "MELLODDY allows pharmaceutical companies to train a drug discovery algorithm without each company directly sharing its data with the others.",
+      "url": "https://www.melloddy.eu/",
+      "tags": ["Machine Learning", "Blockchain", "Data Sharing", "Discovery", "Decentralisation", "Security"]
+    },
+    {
+      "name": "Toyota forklifts",
+      "category": "Simulation",
+      "description": "Microsoft is partnering with Toyota to develop digital twins for intelligent forklifts, allowing Toyota to simulate how an autonomous forklift will navigate an environment and handle encounters with other pieces of equipment.",
+      "url": "https://toyota-forklifts.eu/about-toyota/news-and-editorials/toyota-material-handling-europe-presents-future-logistics-vision-at-hannover-messe-with-microsoft/",
+      "tags": ["Virtual Environments", "Simulation", "Automation", "Self-driving", "Navigation"]
+    },
+    {
+      "name": "Boston Dynamics: Spot",
+      "category": "Robot",
+      "description": "Boston Dynamics has created commercially available robot for open-world use. “Spot” is a quadrupedal bot with a long robot arm.",
+      "url": "https://www.bostondynamics.com/",
+      "tags": ["Inspection", "3D Mapping", "Robot", "Autonomy", "Computer Vision"]
+    },
+    {
+      "name": "New Holland’s Autonomous Tractor",
+      "category": "Self-driving",
+      "description": "New Holland’s autonomous tractor lets farmers take full advantage of good weather by operating at any time of day.",
+      "url": "https://agriculture.newholland.com/apac/en-nz/about-us/whats-up/news-events/2017/new-holland-nhdrive-concept-autonomous-tractor",
+      "tags": ["Self-driving", "Automation", "Agriculture", "Farming"]
+    },
+    {
+      "name": "Jabil In-store Robots",
+      "category": "Automation",
+      "description": "Jabil is partnering to accelerate retail automation with 5G-enabled in-store robots.",
+      "url": "https://www.jabil.com/news/woodmans-market-rolls-out-badger-technologies-grocery-robots.html",
+      "tags": ["Self-driving", "Automation", "Retail", "5G"]
+    },
+    {
+      "name": "Caterpillar Cat Connect",
+      "category": "AI",
+      "description": "Cat Connect makes smart use of technology and services to improve jobsite efficiency. Using the data from technology-equipped machines,The Cat RAM Molile App provides remote monitoring of power systems anywhere, anytime",
+      "url": "https://www.cat.com/en_GB/support/operations/cat-connect-solutions.html",
+      "tags": ["Autonomy", "AI", "Performance Optimization"]
+    },
+    {
+      "name": "Tesla Self Driving Car",
+      "category": "Self-driving",
+      "description": "Tesla motors is a Autonomous Driving company that creates Autonomous cars and collects artificial intellegence and data analytics from its products users. It custom AI chip D1 is used for machine-learning algorithms behinds its Autopilot self-driving system",
+      "url": "https://www.tesla.com/autopilot",
+      "tags": ["Self-driving", "Automation", "Machine learning", "AI", "Automotive"]
+    },
+    {
+      "name": "Wellio AI food-tech",
+      "category": "AI",
+      "description": "Wellio uses AI to make automated descisions for the user based on a set of core principles, these principles include inclusion of fresh ingrediants from trusted brands, less food and packaging waste and scanning of food ingrediants, its use of big data contributes to better understand a home chefs preferences",
+      "url": "http://www.getwellio.com/",
+      "tags": ["AI", "Retail", "Machine Learning"]
+    },
+    {
+      "name": "Dominoes Nuro Self Driving Vehicles",
+      "category": "Self-driving",
+      "description": "Nero is a autonomous driving technology company, it provides autonomous vehicles to deliver products via their custome built autonomous vehicles, they make use of 360 degree thermal cameras, lidar and radar to represent the road, their machine-learning engineered components allow for a maximum robustness.",
+      "url": "https://www.nuro.ai/",
+      "tags": ["Self-driving", "Automation", "LIDAR", "RADAR"]
+    },
+    {
+      "name": "Huawei Cyberverse",
+      "category": "Simulation",
+      "description": "Cyberverse is an innovative advanced technology that integrates the virtual world with reality. By connecting users, space, and data through spatial computing, it provides Huawei's mobile device users with a brand-new interaction mode and unparalleled visual experience, Its use of 3D Ultra-high definition mapping in conjunction with 5G architecture helps build a virtual world that is integrated with reality and provide valuable new service.",
+      "url": "https://consumer.huawei.com/en/press/news/2019/huawei-cyberverse-a-new-world/",
+      "tags": ["AR", "VR", "Simulation", "5G"]
+    },
+    {
+      "name": "Shiseido Optune",
+      "category": "AI",
+      "description": "Shiseido a japanese skincare brand  launched its service, Optune, a an IoT personalized skincare system that offers 80,000 skincare patterns matched with individual user’s daily skin conditions and living environments, it uses an original algorithm to analyze skin condition data and environmental data (temperature, humidity, etc.) as well as sleep data to detect biological rhythm disruption",
+      "url": "https://corp.shiseido.com/en/news/detail.html?n=00000000002712",
+      "tags": ["AI", "Image Recognition", "5G", "Data Processing"]
+    },
+    {
+      "name": "Farmwise Autonomous Robots",
+      "category": "Robot",
+      "description": "Farmwise has deployed autonous farming robots to seed, weed and handle delicate plants, it makes use of of image processing, machine-learning AI in combination with 5G Technology",
+      "url": "https://farmwise.io/",
+      "tags": ["Autonomy", "Self-driving", "Agriculture", "Farming", "Image Processing", "5G", "Image Recognition"]
+    },
+    {
+      "name": "Rosborg Foods OnRobot",
+      "category": "Robot",
+      "description": "Rosborg Foods teamed up with OnRobot, they developed autonomous farming robots to handle delicate plants, OnRobot uses machine-learning AI to handle, tend and weed Rosbord Foods plants. Making use of vacuum powered 2 pronged robot arms that are precise yet very delicate.",
+      "url": "https://onrobot.com/en",
+      "tags": ["Autonomy", "Self-driving", "Agriculture", "Farming", "Image Processing", "5G", "Image Recognition"]
+    },
+    {
+      "name": "Tengai Robot Interviewer",
+      "category": "Robot",
+      "description": "TNG a Swedish recruitment firm has teamed up with Furhat Robotics to deplot Tengai a unbiased robotic interviewer, Tengai makes use of natural language processing and language comprehension to save TNG time and money alwhile alloiwing growth in their company and resulted in more valuable recruitments in their company",
+      "url": "https://www.tengai-unbiased.com/tengai-robot/",
+      "tags": ["AI", "Natural Language", "Language Comprehension", "Robot"]
+    },
+    {
+      "name": "Amazon Sumerian",
+      "category": "Simulation",
+      "description": "Amazon Sumerian is a mixed reality application that uses AR and VR, The service provides a web-based editor that allows developers to construct and animate 3D scenes without the need for specialized programming.",
+      "url": "https://aws.amazon.com/sumerian/",
+      "tags": ["AR", "VR", "3D Printing", "AI"]
+    },
+    {
+      "name": "Texas government Blockchain Voting System",
+      "category": "Blockchain",
+      "description": "The Texas government has developed a blockchain system for its annual elections, the system uses 3 separate blockchains to provide a secure voting system, its partnered with Blockchain Technologies Corporation (BTC) as well as the Florincoin blockchain",
+      "url": "https://www.wired.com/story/dana-debeauvoir-texas-county-clerk-voting-tech-revolution/",
+      "tags": ["Homomorphic Encryption", "Machine Learning", "Edge Computing", "Security"]
+    }
+  ]
+}
